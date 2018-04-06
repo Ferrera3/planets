@@ -1,1 +1,6 @@
+
 Text to learn git
+
+Now this file is commited and we are making a chnge
+
+Another random place
